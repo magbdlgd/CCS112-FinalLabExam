@@ -1,4 +1,3 @@
-import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -6,14 +5,13 @@ import Image from 'react-bootstrap/Image';
 import Swtz from '../assets/swtz.jpg'
 import Valley from '../assets/valley.jpg'
 
-
 const Section = () => {
     return (
         <section>
             <Container>
                 <Row xs={2}>
                     <Col>
-                        <h2>Welcome to UC</h2>
+                        <h2>Welcome to UC Tours</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, enim aliquam sunt, fugit numquam error, voluptatum fugiat consectetur illo rerum suscipit possimus officiis voluptatem rem et ab. Error laboriosam quidem, velit delectus ea iure beatae consequatur distinctio illo voluptatem tempore voluptate animi incidunt debitis rerum totam doloribus ab unde quam!</p>
                         <Row >
                             <Col >

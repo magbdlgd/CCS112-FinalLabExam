@@ -1,4 +1,3 @@
-import React from 'react'
 import Stack from 'react-bootstrap/Stack';
 import { AiFillFacebook } from "react-icons/ai";
 import { AiFillInstagram } from "react-icons/ai";
@@ -13,7 +12,6 @@ const Footer = () => {
                 <a className='ms-auto' href="#"><AiFillFacebook /></a>
                 <a href="#"> <AiFillInstagram /></a>
                 <a href="#"><AiFillTwitterCircle /></a>
-
             </Stack>
 
         </div>
